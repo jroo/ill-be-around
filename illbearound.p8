@@ -1,6 +1,9 @@
 pico-8 cartridge // http://www.pico-8.com
 version 29
 __lua__
+--i'll be around (campfire demo)
+--by jroo
+
 function _init()
 	last_frame = 0
 	min_s=1
